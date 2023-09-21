@@ -74,6 +74,6 @@ Friday October 6th, 19-21, Dinner at the Italian restaurant Cantina, Borgergade 
 
 # Literature 
 
-[Go to Subpage](papers.html)
+[Literature](papers.html)
 
 
