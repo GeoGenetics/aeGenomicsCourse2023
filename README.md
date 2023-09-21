@@ -5,8 +5,7 @@
 
 Mikkel Winther Pedersen
 
-mail: mwpedersen@sund.ku.dk
-
+mail: mwpedersen@sund.ku.dk, 
 phone/whatsapp: +45 2927 5342
 
 Martin Sikora
