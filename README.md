@@ -72,5 +72,8 @@ Sunday October 1st, 17-19, Ice breaker drinks and snacks at the Natural History 
 
 Friday October 6th, 19-21, Dinner at the Italian restaurant Cantina, Borgergade 2, cantinacph.dk. 
 
+# Literature 
+
+[Go to Subpage](papers.html)
 
 
