@@ -61,13 +61,16 @@ mail: antonio.fernandez-guerra@sund.ku.dk
 
 - Natural History Museum of Denmark, Oester Voldgade 5-7. Main auditorium. (9-17)
 
+
+**Sunday, October 7th**
+- Online 
+
+
 # Social events
 
 Sunday October 1st, 17-19, Beer breaker with snacks at the Natural History Museum of Denmark. 
 
+Friday October 6th, 19-21, Dinner at the Italian restaurant Cantina, Borgergade 2, cantinacph.dk. 
 
 
 
-**Sunday, October 7th**
-- Online 
-  
