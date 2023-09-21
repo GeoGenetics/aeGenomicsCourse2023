@@ -1,6 +1,6 @@
 # Practical information and updates
 
-### Course responsible contact details
+## Course-responsible contact details
 
 
 Mikkel Winther Pedersen
