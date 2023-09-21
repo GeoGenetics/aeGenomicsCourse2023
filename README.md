@@ -3,15 +3,14 @@
 ## Course-responsible contact details
 
 
-Mikkel Winther Pedersen
-
+Mikkel Winther Pedersen,
 mail: mwpedersen@sund.ku.dk, 
 phone/whatsapp: +45 2927 5342
 
-Martin Sikora
+Martin Sikora,
 mail: msikora@sund.ku.dk
 
-Antonio Fernandez Guerra
+Antonio Fernandez Guerra,
 mail: antonio.fernandez-guerra@sund.ku.dk
 
 
