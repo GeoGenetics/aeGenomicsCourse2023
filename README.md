@@ -7,7 +7,7 @@
 ## Where and When
 **Sunday, October 1st**
 
-- Natural History Museum of Denmark, Oester Voldgade 5-7. Main auditorium.
+- Natural History Museum of Denmark, Oester Voldgade 5-7. Main auditorium. (13-15)
 
 **Monday, October 2nd**
 
