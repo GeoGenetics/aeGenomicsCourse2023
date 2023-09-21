@@ -2,6 +2,8 @@
 
 #### Course responsible contact details
 **If needed, do not hesitate to contact us**
+
+
 Mikkel Winther Pedersen
 mail: mwpedersen@sund.ku.dk
 phone/whatsapp: +45 2927 5342
