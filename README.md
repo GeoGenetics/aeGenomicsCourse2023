@@ -45,6 +45,8 @@ mail: antonio.fernandez-guerra@sund.ku.dk
 
 **Friday, October 6th**
 
+- Natural History Museum of Denmark, Oester Voldgade 5-7. Excersice "cantine" room. (9-17)
+
 - Natural History Museum of Denmark, Oester Voldgade 5-7. Main auditorium. (9-17)
 
 
