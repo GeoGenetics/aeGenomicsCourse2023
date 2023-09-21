@@ -1,6 +1,16 @@
-# Practical informations and updates
+# Practical information and updates
 
-#### 
+#### Course responsible contact details
+**If needed, do not hesitate to contact us**
+Mikkel Winther Pedersen
+mail: mwpedersen@sund.ku.dk
+phone/whatsapp: +45 2927 5342
+
+Martin Sikora
+mail: msikora@sund.ku.dk
+
+Antonio Fernandez Guerra
+mail: antonio.fernandez-guerra@sund.ku.dk
 
 
 
