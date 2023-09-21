@@ -68,7 +68,7 @@ mail: antonio.fernandez-guerra@sund.ku.dk
 
 # Social events
 
-Sunday October 1st, 17-19, Beer breaker with snacks at the Natural History Museum of Denmark. 
+Sunday October 1st, 17-19, Ice breaker drinks and snacks at the Natural History Museum of Denmark. 
 
 Friday October 6th, 19-21, Dinner at the Italian restaurant Cantina, Borgergade 2, cantinacph.dk. 
 
