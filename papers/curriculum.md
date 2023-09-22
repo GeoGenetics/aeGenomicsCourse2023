@@ -1,3 +1,3 @@
-# On this page you will find the literature that you are expected to read
+# Literature
 
-[download link](/papers/Pedersen2021.pdf)
+[Pedersen et al. 2021](/aeGenomicsCourse/papers/Pedersen2021.pdf)
