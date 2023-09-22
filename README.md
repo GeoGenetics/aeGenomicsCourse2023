@@ -1,4 +1,4 @@
-  # Short course description
+# Short course description
 The Ancient Environmental Genomics Course is an intensive eight-day PhD course. It's all about teaching you the latest tools for analysing ancient environmental DNA no matter if it derives from permafrost soils, lake sediments, ancient artifacts, dental plaque, fossilized poop, ice samples, and like.
 
 Our goal is to give you the skills to study complex mixtures of DNA from the past. You'll learn how to identify different species, including microbes, plants, animals, and even humans, using taxonomic profiling, organelle and nuclear DNA placement. You will also learn how to best document and report your findings and share them with others.
