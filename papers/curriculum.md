@@ -6,7 +6,7 @@
 
 [Fernandez-Guerra et al. 2023](/aeGenomicsCourse/papers/Fernandez-Guerra2023.pdf)
 
-[Kjaer et al. 2022](/aeGenomicsCourse/papers/Kjaer2022.pdf)
+[Kjaer et al. 2022](/aeGenomicsCourse/papers/kjaer2022.pdf)
 
 [Orlando et al. 2021](/aeGenomicsCourse/papers/Orlando2021.pdf)
 
