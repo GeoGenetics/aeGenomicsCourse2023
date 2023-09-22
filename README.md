@@ -25,41 +25,41 @@ mail: antonio.fernandez-guerra@sund.ku.dk
 ## Where and When
 **Sunday, October 1st**
 
-- Natural History Museum of Denmark [direction](https://www.google.com/maps/@55.6874652,12.5742057,17z/data=!3m1!4b1?entry=ttu), Oester Voldgade 5-7. Main auditorium. (13-15)
+- Natural History Museum of Denmark, Oester Voldgade 5-7. Main auditorium. (13-17) [direction](https://maps.app.goo.gl/yBokaidtgsGYhD7a8)
 
 
 **Monday, October 2nd**
 
-- Frederiksberg Campus, Rolighedsvej 26. Room - A2-74.11. (9-17)
+- Frederiksberg Campus, Rolighedsvej 26. Room - A2-74.11. (9-17) [direction](https://maps.app.goo.gl/4MBpx81zJbM5Nd3U6)
 
 
 **Tusday, October 3rd**
 
-- Frederiksberg Campus, Thorvaldsensvej 40, Room - A2-70.01. (9-11)
+- Frederiksberg Campus, Thorvaldsensvej 40, Room - A2-70.01. (9-11) [direction](https://maps.app.goo.gl/RSBUfUSWeFoNcKD39)
   
-- Frederiksberg Campus, Rolighedsvej 26. Room - A2-74.11. (12-15)
+- Frederiksberg Campus, Rolighedsvej 26. Room - A2-74.11. (12-15) [direction](https://maps.app.goo.gl/4MBpx81zJbM5Nd3U6)
 
 
 **Wednesday, October 4th**
 
-- Frederiksberg Campus, Dyrlægevej 88, 	Room - A1-09.01. (9-17)
+- Frederiksberg Campus, Dyrlægevej 88, 	Room - A1-09.01. (9-17) [direction](https://maps.app.goo.gl/jZWWznvTTUZqgqyr5)
 
 
 **Thursday, October 5th**
 
-- Frederiksberg Campus, Rolighedsvej 26. Room - A2-74.11. (9-17)
+- Frederiksberg Campus, Rolighedsvej 26. Room - A2-74.11. (9-17) [direction](https://maps.app.goo.gl/4MBpx81zJbM5Nd3U6)
 
 
 **Friday, October 6th**
 
-- Natural History Museum of Denmark, Oester Voldgade 5-7. Excersice "cantine" room. (9-17)
+- Natural History Museum of Denmark, Oester Voldgade 5-7. Excersice "cantine" room. (9-10.30) [direction](https://maps.app.goo.gl/yBokaidtgsGYhD7a8)
 
-- Natural History Museum of Denmark, Oester Voldgade 5-7. Main auditorium. (9-17)
+- Natural History Museum of Denmark, Oester Voldgade 5-7. Main auditorium. (10.30-17)
 
 
 **Saturday, October 7th**
 
-- Natural History Museum of Denmark, Oester Voldgade 5-7. Main auditorium. (9-17)
+- Natural History Museum of Denmark, Oester Voldgade 5-7. Main auditorium. (9-17) [direction](https://maps.app.goo.gl/yBokaidtgsGYhD7a8)
 
 
 **Sunday, October 8th**
@@ -70,7 +70,7 @@ mail: antonio.fernandez-guerra@sund.ku.dk
 
 Sunday October 1st, 17-19, Ice breaker drinks and snacks at the Natural History Museum of Denmark. 
 
-Friday October 6th, 19-21, Dinner at the Italian restaurant Cantina, Borgergade 2, cantinacph.dk. 
+Friday October 6th, 19-21, Dinner at the Italian restaurant Cantina, Borgergade 2, cantinacph.dk. [direction](https://maps.app.goo.gl/dhHMWprQGK5kKLog9)
 
 # Curriculum 
 
