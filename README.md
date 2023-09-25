@@ -30,34 +30,32 @@ mail: antonio.fernandez-guerra@sund.ku.dk
 
 **Monday, October 2nd**
 
-- Copenhagen Municipal Hospital, Øster Farimagsgade 5. Room - 07-1-46. (9-17) [direction](https://globe.ku.dk/contact/hologenomics/)
+- Copenhagen Municipal Hospital, Oester Farimagsgade 5. Room - 07-1-46. (9-17) [direction](https://globe.ku.dk/contact/hologenomics/)
 
 
 **Tusday, October 3rd**
 
-- Copenhagen Municipal Hospital, Øster Farimagsgade 5. Room - 07-1-46. (9-17) [direction](https://globe.ku.dk/contact/hologenomics/)
+- Copenhagen Municipal Hospital, Oester Farimagsgade 5. Room - 07-1-46. (9-17) [direction](https://globe.ku.dk/contact/hologenomics/)
 
 
 **Wednesday, October 4th**
 
-- Copenhagen Municipal Hospital, Øster Farimagsgade 5. Room - 07-1-46. (9-17) [direction](https://globe.ku.dk/contact/hologenomics/)
+- Copenhagen Municipal Hospital, Oester Farimagsgade 5. Room - 07-1-46. (9-17) [direction](https://globe.ku.dk/contact/hologenomics/)
 
 
 **Thursday, October 5th**
 
-- Copenhagen Municipal Hospital, Øster Farimagsgade 5. Room - 07-1-46. (9-17) [direction](https://globe.ku.dk/contact/hologenomics/)
+- Copenhagen Municipal Hospital, Oester Farimagsgade 5. Room - 07-1-46. (9-17) [direction](https://globe.ku.dk/contact/hologenomics/)
 
 
 **Friday, October 6th**
 
-- Copenhagen Municipal Hospital, Øster Farimagsgade 5. Room - 07-1-46. (9-17) [direction](https://globe.ku.dk/contact/hologenomics/)
-
-- Natural History Museum of Denmark, Oester Voldgade 5-7. Main auditorium. (10.30-17)
+- Copenhagen Municipal Hospital, Oester Farimagsgade 5. Room - 07-1-46. (9-17) [direction](https://globe.ku.dk/contact/hologenomics/)
 
 
 **Saturday, October 7th**
 
-- Copenhagen Municipal Hospital, Øster Farimagsgade 5. Room - 07-1-46. (9-17) [direction](https://globe.ku.dk/contact/hologenomics/)
+- Copenhagen Municipal Hospital, Oester Farimagsgade 5. Room - 07-1-46. (9-17) [direction](https://globe.ku.dk/contact/hologenomics/)
 
 
 **Sunday, October 8th**
