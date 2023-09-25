@@ -30,36 +30,34 @@ mail: antonio.fernandez-guerra@sund.ku.dk
 
 **Monday, October 2nd**
 
-- Frederiksberg Campus, Rolighedsvej 26. Room - A2-74.11. (9-17) [direction](https://maps.app.goo.gl/4MBpx81zJbM5Nd3U6)
+- Copenhagen Municipal Hospital, Øster Farimagsgade 5. Room - 07-1-46. (9-17) [direction](https://globe.ku.dk/contact/hologenomics/)
 
 
 **Tusday, October 3rd**
 
-- Frederiksberg Campus, Thorvaldsensvej 40, Room - A2-70.01. (9-11) [direction](https://maps.app.goo.gl/RSBUfUSWeFoNcKD39)
-  
-- Frederiksberg Campus, Rolighedsvej 26. Room - A2-74.11. (12-15) [direction](https://maps.app.goo.gl/4MBpx81zJbM5Nd3U6)
+- Copenhagen Municipal Hospital, Øster Farimagsgade 5. Room - 07-1-46. (9-17) [direction](https://globe.ku.dk/contact/hologenomics/)
 
 
 **Wednesday, October 4th**
 
-- Frederiksberg Campus, Dyrlægevej 88, 	Room - A1-09.01. (9-17) [direction](https://maps.app.goo.gl/jZWWznvTTUZqgqyr5)
+- Copenhagen Municipal Hospital, Øster Farimagsgade 5. Room - 07-1-46. (9-17) [direction](https://globe.ku.dk/contact/hologenomics/)
 
 
 **Thursday, October 5th**
 
-- Frederiksberg Campus, Rolighedsvej 26. Room - A2-74.11. (9-17) [direction](https://maps.app.goo.gl/4MBpx81zJbM5Nd3U6)
+- Copenhagen Municipal Hospital, Øster Farimagsgade 5. Room - 07-1-46. (9-17) [direction](https://globe.ku.dk/contact/hologenomics/)
 
 
 **Friday, October 6th**
 
-- Natural History Museum of Denmark, Oester Voldgade 5-7. Excersice "cantine" room. (9-10.30) [direction](https://maps.app.goo.gl/yBokaidtgsGYhD7a8)
+- Copenhagen Municipal Hospital, Øster Farimagsgade 5. Room - 07-1-46. (9-17) [direction](https://globe.ku.dk/contact/hologenomics/)
 
 - Natural History Museum of Denmark, Oester Voldgade 5-7. Main auditorium. (10.30-17)
 
 
 **Saturday, October 7th**
 
-- Natural History Museum of Denmark, Oester Voldgade 5-7. Main auditorium. (9-17) [direction](https://maps.app.goo.gl/yBokaidtgsGYhD7a8)
+- Copenhagen Municipal Hospital, Øster Farimagsgade 5. Room - 07-1-46. (9-17) [direction](https://globe.ku.dk/contact/hologenomics/)
 
 
 **Sunday, October 8th**
