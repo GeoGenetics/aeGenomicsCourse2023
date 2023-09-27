@@ -16,3 +16,11 @@
 
 [Warinner et al. 2017](/aeGenomicsCourse/papers/Warinner2017.pdf)
 
+## Additional good-to-know methods papers
+
+[Vogel et al. 2023](https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.14214)
+
+[Michelsen et al. bioRxiv](https://www.biorxiv.org/content/10.1101/2022.12.06.519264v1)
+
+[Wang et al. 2022](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14006)
+
