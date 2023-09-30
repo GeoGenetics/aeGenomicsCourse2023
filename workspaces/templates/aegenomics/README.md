@@ -1,13 +1,11 @@
 ---
-name: KasmVNC
-description: Run workspaces on a Docker host using registry images
+name: Develop in Docker
+description: Develop inside Docker containers using your local daemon
 tags: [local, docker]
 icon: /icon/docker.png
 ---
 
-# KasmVNC in Coder
-
-A significantly better VNC experience with copy & paste.
+# docker
 
 To get started, run `coder templates init`. When prompted, select this template.
 Follow the on-screen instructions to proceed.
