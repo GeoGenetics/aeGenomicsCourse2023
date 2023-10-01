@@ -25,7 +25,7 @@ mail: antonio.fernandez-guerra@sund.ku.dk
 ## Where and When
 **Sunday, October 1st**
 
-- Natural History Museum of Denmark, Oester Voldgade 5-7. Main auditorium. (13-17) [direction](https://maps.app.goo.gl/yBokaidtgsGYhD7a8)
+- Natural History Museum of Denmark, Oester Voldgade 5-7. Main auditorium. (13-17) [direction](https://maps.app.goo.gl/BweF29XdBgKFoSxU6)
 
 
 **Monday, October 2nd**
