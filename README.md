@@ -76,3 +76,7 @@ Friday October 6th, 19-21, Dinner at the Basque Tapas restaurant Contento, Ryesg
 
 [GitHub repos](/GitHub_repos/README.md)
 
+# Case 
+
+[Case study](/Case/README.md)
+
