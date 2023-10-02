@@ -72,4 +72,7 @@ Friday October 6th, 19-21, Dinner at the Basque Tapas restaurant Contento, Ryesg
 
 [Papers](/papers/curriculum.md)
 
+# GitHub repositories
+
+[GitHub repos](https://github.com/GeoGenetics-edu/github-starter-course)
 
