@@ -74,5 +74,5 @@ Friday October 6th, 19-21, Dinner at the Basque Tapas restaurant Contento, Ryesg
 
 # GitHub repositories
 
-[GitHub repos](/GitHu_repos/README.md)
+[GitHub repos](/GitHub_repos/README.md)
 
