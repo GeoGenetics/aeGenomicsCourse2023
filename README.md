@@ -81,5 +81,5 @@ Friday October 6th, 19-21, Dinner at the Basque Tapas restaurant Contento, Ryesg
 
 # Case 
 
-[Case study](/Case/README.md)
+[Case study](/Case/Letter.pdf)
 
