@@ -18,7 +18,7 @@ mail: mwpedersen@sund.ku.dk,
 phone/whatsapp: +45 2927 5342
 
 Martin Sikora,
-mail: msikora@sund.ku.dk
+mail: martin.sikora@sund.ku.dk
 
 Antonio Fernandez Guerra,
 mail: antonio.fernandez-guerra@sund.ku.dk
