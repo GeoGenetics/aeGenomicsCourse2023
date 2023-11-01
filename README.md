@@ -3,10 +3,6 @@ The Ancient Environmental Genomics Course is an intensive eight-day PhD course. 
 
 Our goal is to give you the skills to study complex mixtures of DNA from the past. You'll learn how to identify different species, including microbes, plants, animals, and even humans, using taxonomic profiling, organelle and nuclear DNA placement. You will also learn how to best document and report your findings and share them with others.
 
-```
-samtools view myfile.bam
-```
-
 
 # Practical information and updates
 
