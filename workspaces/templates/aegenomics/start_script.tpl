@@ -9,6 +9,7 @@ sudo locale-gen en_US.UTF-8
 /tmp/code-server/bin/code-server --install-extension anwar.papyrus-pdf
 /tmp/code-server/bin/code-server --install-extension mads-hartmann.bash-ide-vscode
 
+
 # mkdir -p /home/kasm-user/Desktop
 
 #coder dotfiles -y ${dotfiles_url} &
@@ -63,6 +64,7 @@ dependencies:
   - fastqc
   - seqkit
   - shellcheck
+  - vsearch
 EOF
 
   cat <<EOF >/tmp/day2.yml
@@ -127,6 +129,7 @@ dependencies:
   - mawk
   - cxx-compiler
   - mmseqs2
+  - bbmap
   - pip
   - pip:
       - bam-filter
@@ -215,6 +218,7 @@ dependencies:
   - r-gghighlight
   - r-dplyr
   - bioconductor-rsamtools
+  - bioconductor-complexheatmap
 EOF
 
   mamba create -y -n course python=3.9
@@ -313,9 +317,10 @@ EOF
   conda activate r
 
   Rscript -e 'remotes::install_github("uqrmaie1/admixtools")'
+  Rscript -e 'remotes::install_github("wyc661217/ngsLCA")'
 
   conda deactivate
-  #ln -s /home/${username}/course /home/${username}/Desktop/course
+
   sudo cp /home/${username}/course/data/vgan/bin/vgan /usr/local/bin/
 
   sudo chown ${username}:${username} /home/${username}/course

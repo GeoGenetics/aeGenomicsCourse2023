@@ -19,6 +19,7 @@ RUN apt-get update \
     locales \
     htop \
     tmux \
+    datamash \
     && rm -rf /var/lib/apt/lists/*
 
 ARG USER=coder
