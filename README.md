@@ -65,7 +65,6 @@ mail: antonio.fernandez-guerra@sund.ku.dk
 
 Sunday October 1st, 17-19, Ice breaker drinks and snacks at the Natural History Museum of Denmark. 
 
-Friday October 6th, 19-21, Dinner at the Basque Tapas restaurant Contento, Ryesgade 15, [contentocph.dk](http://www.contentocph.dk/). [direction](https://maps.app.goo.gl/uit8uMxrv54DqcXp9)
 
 # Curriculum 
 
